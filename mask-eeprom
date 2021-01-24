@@ -1,1 +1,0 @@
-echo "rpi-eeprom hold" | sudo dpkg --set-selections && sudo systemctl mask rpi-eeprom-update
