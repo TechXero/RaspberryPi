@@ -5,6 +5,10 @@
 sudo BRANCH=next<br />
 rpi-update eb57df9de3cedf3b1afaa4da54bb50151e55ab56<br />
 
+# -/ PiSafe :
+
+https://github.com/richardmidnight/pi-safe<br />
+
 # -/ Hold EEpROM Update :
 
 echo "rpi-eeprom hold" | sudo dpkg --set-selections<br />
