@@ -17,4 +17,5 @@ sudo apt install compiz compizconfig-settings-manager emerald emerald-themes fus
 
 https://github.com/richardmidnight/pi-safe<br />
 https://github.com/Hexxeh/rpi-firmware/commits/master<br />
+https://www.raspberrypi.org/documentation/hardware/raspberrypi/booteeprom.md<br />
 https://jamesachambers.com/raspberry-pi-4-bootloader-firmware-updating-recovery-guide/?amp=1<br />
