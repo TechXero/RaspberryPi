@@ -1,5 +1,3 @@
-# Pi 4/400 Stuff
-
 # -/ Kernel Update :
 
 sudo BRANCH=next<br />
