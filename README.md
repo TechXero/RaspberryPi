@@ -1,3 +1,5 @@
+![Pi4](https://cdn.redmondpie.com/wp-content/uploads/2019/06/raspberry-pi-4-1200px.jpg)
+
 # -/ Kernel Update :
 
 sudo BRANCH=next<br />
